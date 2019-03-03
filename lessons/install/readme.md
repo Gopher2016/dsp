@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-**I installed Python 3 because it is the latest version of Python and the version I have experience programming with
+**I installed Python 3 because it is the latest version of Python and the version I have experience programming with**
 
 ### Q2. Which Python Version Installed   
 
@@ -56,7 +56,7 @@ In the Terminal:
 `python3 --version`
 
 **Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
-**Type "help", "copyright", "credits" or "license" for more information.
+Type "help", "copyright", "credits" or "license" for more information.**
 
  
 
